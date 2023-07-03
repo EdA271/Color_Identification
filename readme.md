@@ -1,0 +1,3 @@
+# Color Identification
+---
+This is my first Machine Learning (ish) Project. There are only 2 images of tests that I used since I mostly tested this with an RGB value array, but in the future, using Computer Vision, this can be scaled to object color identification (The hardest part here being the actual object identification). The reason I don't consider this *true* Machine Learning is because it is a simple data memorization and returning the neighbor with the least Euclidean distance from the passed in RGB value. 
